@@ -44,6 +44,6 @@ Generate output .csv file to display profit schedule. All columns shown in the e
 
 Bonus Task 2
 
-Write a program that allows entering input data described above;
+Write a program that allows entering input data described above;<br>
 ![WowGIF](https://user-images.githubusercontent.com/57506521/166418503-daba103a-e0cc-43ed-9aad-6ef3a097a990.gif)
 
